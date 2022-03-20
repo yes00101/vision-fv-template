@@ -1,14 +1,9 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Mystery
+Role: CEO
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Name: Mystery
+Role: Chairman
